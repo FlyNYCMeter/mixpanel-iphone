@@ -3,6 +3,7 @@
 #endif
 
 #import "MPNotification.h"
+#import <UIKit/UIKit.h>
 
 @protocol MPNotificationViewControllerDelegate;
 
